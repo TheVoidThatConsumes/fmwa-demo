@@ -1,0 +1,25 @@
+{
+  "name": "fmwa-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "tailwindcss build ./css/styles.css -o ./css/tailwind.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheVoidThatConsumes/fmwa-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheVoidThatConsumes/fmwa-demo/issues"
+  },
+  "homepage": "https://github.com/TheVoidThatConsumes/fmwa-demo#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.8",
+    "postcss": "^8.4.16",
+    "tailwindcss": "^3.1.8"
+  }
+}
