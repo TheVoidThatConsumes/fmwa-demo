@@ -2,10 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-.whatsapp-primary{
-    @apply bg-black
-}
 
-.whatsapp-secondary{
-    @apply bg-teal-700
-}
+
+
